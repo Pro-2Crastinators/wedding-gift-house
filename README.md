@@ -283,3 +283,4 @@ This project follows **real-world production patterns**:
 - Clean MVC backend
 - Modern React architecture
 - Scalable payment handling
+# wedding-gift-house
